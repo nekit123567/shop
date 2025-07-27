@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+    background-color: #AD8C8C;
+    margin: 0;
+    color: whitesmoke;
+}
+
+header {
+    background-color: #C33434;
+    padding: 10px;
+border-radius: 0px 0px 20px 20px;
+border: 2px solid whitesmoke;
+border-top:none;
+}
+
+footer {
+   background-color: #C33434; 
+   border-radius: 10px 10px 0px 0px;
+   padding: 6px;
+   border: 2px solid whitesmoke;
+border-bottom:none;
+}
+
+.logo {
+    width: 100px;
+}
+
+.nazva {
+text-align: center;
+color: whitesmoke;
+text-shadow: 6px 7px 4px  orchid;
+}
+
+a {
+    color: whitesmoke;
+    text-align: center;
+    background-color: #AD8C8C;
+    border-radius: 30px;
+    padding: 5px;
+    transition: 0.45s;
+}
+
+h2, h3 {
+    color: whitesmoke;
+}
+
+nav {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+a:hover {
+    box-shadow: 0px 7px 15px 2px black;
+    transform: translateY(-5px)
+}
+
+.tam {
+    text-decoration: none;
+}
+
+.top {  
+    display: flex;
+    
+}
+
+.top img {
+    border-radius: 50%;
+    box-shadow: 0px 0px 9px 8px orchid;
+}
+
+h1 {
+    width: 1450px;
+}
+
+.shock, .ws, .marmeladka, .yaposhka {
+    width: 60px;
+    height: 60px;
+}
+
+iframe {
+    width: 600px;
+}
+
+.video, iframe {
+    display: block;
+    justify-content: center;
+}
+
+p {
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
