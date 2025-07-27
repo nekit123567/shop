@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Солодкий рай</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<header>
+    <div class="top"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQAENQqrDUy6AcURaH5z5eaGRzv2UQSD6sQ&s" class="logo">
+    <h1 class="nazva">Солодкий рай</h1></div>
+    <nav>
+    <a href="" class="tam">Асортимент</a>
+    <a href="" class="tyt">Розташування</a>
+    </nav>
+</header>
+<body>
+<p>Ми є у: Києві, Харькові, Одесі, Дніпрі, Донецьку, Запоріжжі, Львові, Кривому Розі, Миколаїві, Вінниці, Херсоні, Полтаві, Чернігові, Черкасах, Сумаї, Житомирі, Рівному, Луцьку, Тернополі, Хмельницькому, Чернівцях, Івано-Франківську, Ужгороді, Кропивницькому, Сєвєродонецьку, Лисичанську, Слов'янську, Краматорську, Маріуполі, Бердянську, Мелітополі, Каховці, Новій Каховкці, Генічеську.</p>
+</body>
+<footer>
+<h2>
+номер: +380930642901
+</h2>
+<h3>
+почта: robochayapochta@gmail.com
+</h3>
+</footer>
+</html>
